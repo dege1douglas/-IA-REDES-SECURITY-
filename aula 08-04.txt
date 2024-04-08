@@ -1,0 +1,12 @@
+• aprendizagem de máquina (T [TAREFA], E [EXPERIENCIA] - P [PERFORMANCE]);
+• processo de criação de *árvore de decisão*;
+• assertividade (peformance);
+• estratégia gulosa (problemas e subproblemas){
+dividir para conquistar,
+aprendizado gradativo,
+passo a passo,
+dividir para conquistar,
+}
+• ATIVIDADES::: 
+01- TABELA CONDIÇÃO DE ANÁLISE E.T.P.
+02- CRIAR ÁRVORE DE DECISÃO
