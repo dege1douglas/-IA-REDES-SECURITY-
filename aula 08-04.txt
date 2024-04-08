@@ -1,12 +1,36 @@
 • aprendizagem de máquina (T [TAREFA], E [EXPERIENCIA] - P [PERFORMANCE]);
 • processo de criação de *árvore de decisão*;
 • assertividade (peformance);
-• estratégia gulosa (problemas e subproblemas){
-dividir para conquistar,
-aprendizado gradativo,
-passo a passo,
-dividir para conquistar,
-}
+• estratégia gulosa (problemas e subproblemas)
+  {
+  - dividir para conquistar,
+  - aprendizado gradativo,
+  - passo a passo,
+  - dividir para conquistar,
+  }
+
 • ATIVIDADES::: 
-01- TABELA CONDIÇÃO DE ANÁLISE E.T.P.
-02- CRIAR ÁRVORE DE DECISÃO
+01 - TABELA CONDIÇÃO DE ANÁLISE E.T.P..
+02 - CRIAR ÁRVORE DE DECISÃO.
+
+  • support vector machine (S.V.M.)
+{
+  paradigma matemático
+  padrão de generalização eficaz
+  truque inteligente com kernels
+  natureza não paramétrica
+  
+  - generalização de dados não vistos
+  plano multidimensional';
+  - transformação com kernels
+  encontra padrão e agrupa de forma estruturada e com lógica definida;
+  - armazenamento de dados indicativos
+  armazena e organiza;
+  
+  • one-hot-encoding;{
+  - três atributos binários
+  - one x one | one x all
+  }
+
+}
+
