@@ -9,11 +9,13 @@
   - dividir para conquistar,
   }
 
-• ATIVIDADES::: 
+  : : : ATIVIDADES : : : 
 01 - TABELA CONDIÇÃO DE ANÁLISE E.T.P..
 02 - CRIAR ÁRVORE DE DECISÃO.
+03 - CRIAR UM S.V.M. (2 TIPOS).
+04 - TIPOS DE APLICAÇÃO DO K-MEANS.
 
-  • support vector machine (S.V.M.)
+• support vector machine (S.V.M.)
 {
   paradigma matemático
   padrão de generalização eficaz
@@ -27,10 +29,62 @@
   - armazenamento de dados indicativos
   armazena e organiza;
   
-  • one-hot-encoding;{
+  • one-hot-encoding{
   - três atributos binários
-  - one x one | one x all
+  - one vs one | one vs all
   }
 
 }
+
+03- RESPOSTA.{
+TAREFA: reconhecimento de imagem
+(one-hot-encoding)
+a) ser humano;  b) animal;  c) paisagismo;
+
+- foto de um cão correndo na praia: a | b | c
+                                    0 | 1 | 1
+
+- foto de um homem com seu pássaro: a | b | c
+                                    1 | 1 | 0
+
+- foto do monte fuji: a | b | c
+                      0 | 0 | 1
+}
+
+• regressão linear e não linear;
+• aprendizado supervisionado;
+• aprendizado não-supervisionado{
+associação e agrupamento
+}
+• aprendizado semi-supervisionado{
+- combina o "melhor" dos outros dois métodos
+- self-training
+}
+
+AGRUPAMENTO
+  • k-means{
+    - escolhe centróides para cada grupo, aloca novas instâncias ao mais próximo - usando medidas de similaridade.
+}
+
+04 - RESPOSTA.{
+
+• Segmentação de clientes{
+usuário: Empresas de varejo.
+método: segmentar seus clientes com base em seu comportamento de compra.
+objetivo: personalização de ofertas e campanhas de marketing direcionadas.
+
+• Análise de mercado: 
+método: identificar segmentos de mercado com características semelhantes. 
+objetivo: auxiliar empresas na identificação de oportunidades de negócios.
+
+• Reconhecimento de padrões: 
+usuário: visão computacional 
+método: reconhecer padrões em imagens. 
+objetivo: reconhecimento facial ou detecção de objetos.
+
+}
+
+
+
+
 
