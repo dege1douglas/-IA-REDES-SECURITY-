@@ -57,8 +57,21 @@ a) ser humano;  b) animal;  c) paisagismo;
 associação e agrupamento
 }
 • aprendizado semi-supervisionado{
-- combina o "melhor" dos outros dois métodos
-- self-training
+    - combina o "melhor" dos outros dois métodos
+    - self-training{
+        • dados rotulados;
+        • "modelo" inicial (padrão);
+        • classificação;
+        • geração novos rótulos;
+        • avaliação de confiabilidade;
+        • seleção de rótulos confiáveis;
+        • treinamento aprimorado;
+        • melhoria contínua;
+        • resultado;
+    
+      " not like framework*
+        reforçar -> [frameworks - bibliotecas - métodos - objetos - classe] "
+    }
 }
 
 AGRUPAMENTO
