@@ -7,6 +7,4 @@ minority report
 westworld
 eu, robô
 ex machina
-
-
 }
