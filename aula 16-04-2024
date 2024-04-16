@@ -1,0 +1,35 @@
+DEEP LEARNING:
+
+• REDES NEURAIS.
+convolucionais
+recorrentes
+long short term memomory
+arquiteturas: mlp, cnn, rnn, lstm, máquinas de boltzmann, deep belief network, deep auto-encoders, generative adversarial network
+
+::: atividades :::
+mlp(multiplayer perceptrons)
+- filtro de spam do email (outlook)
+
+cnn(convulacionais)
+- reconhecimento de imagens em app de midia social (facebook)
+
+rnn(recorrentes)
+- assistentes virtuais (siri)
+
+lstm(longshort term memory)
+- tradução automática (google translate)
+
+boltzmann
+- recomendação de filmes (netflix)
+
+deep auto encoders
+- compreensão de imagens em serviços de armazenamento em nuvem (dropbox)
+
+deep belief network
+- diagnóstico médico assistido por pc
+
+gans (generativa adversariais):
+garação de imagens realistas em jogos de video game
+
+
+
