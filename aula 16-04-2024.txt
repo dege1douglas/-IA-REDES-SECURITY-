@@ -31,4 +31,14 @@ garação de imagens realistas em jogos de video game (NVIDIA GauGAN);
 
 : : : FIM : : : 
 
+ DL é um tipo de machine learning
+• vant. = lida com problemas complexos e tem modelos mais precisos e reduz esforço;
+• desv. = treinar e otimizar pode exigir muito poder computacional e dados além de serem difíceis de interpretar;
+
+ Estrutura de DL:
+• múltiplas camadas de processamento com pesos entre entradas e saídas.
+1. aprende e extrai
+2 ou mais. classificam e previsao
+
+
 
