@@ -1,0 +1,53 @@
+1- BIG DATA:
+• grande volumes de dados de diversas origens e formatos, tornando a armazenagem, a sua análise e o seu processamento um desafio.
+- Era dos dados (novo petróleo)
+- Fonte de dados (so many)
+
+→ Os 5 Vs = volume, velocidade, veracidade, variedade, valor.
+
+• • • MITOS E VERDADES • • •
+- não se limita apenas a grande volumes de dados
+- não se limita apenas a dados "limpos"
+- não espera para aperfeiçoar os dados
+- não funciona com lake data
+- não precisa ser um investimento exorbitante
+- embora eficazes algoritmos não substituem 100% os analistas
+
+• Tomada de decisão informada e acertiva, coleta de dados abrangente
+
+• Dados estruturados (banco de dados relacionais [estrutura rigidamente definida para estabelecer relações])
+  - qualitativos, quantitativos
+
+•  Dados não estruturados (informações desprovidas de estruturas predefinida, imagens, vídeos)
+  - preparação de dados; transformação, engenharia de atributos, verificação de consistência
+
+• Análise exploratória dos dados (deve ser avaliado para melhor escolha [dividir em conjuntos e verificar desempenho])
+  - revela padrões, tendências e valores atípicos. (estatística)
+
+• Data Warehouse,
+    • Data mart.[extraído, independente e parte do datamart primeiro]
+
+comportamento de turnOver*
+
+• Granularidade de dados: nível mais baixo de agregação de dados em um database
+
+• Mineração de dados: permite desvendadr infos valiosos a partir de dados complexos
+  ↓↓↓
+  - estatística
+  - IA
+  - máquina de estados
+  - database
+→ Para gerar modelos analíticos e revelar insights ocultos.
+
+• Data Lake (repositório de dados organizado, brutos e não processados) X Data Swamp (armazenamento caótico, desorganizado e sem governança)
+  - Governança (gestão)
+
+• Evolução do data Warehousing e análise: trasnformação e unificação de dados para máximo aproveitamento → ETL (extract, transform & load) | ELT (extract, load & transform)
+
+• Preparar dados para análise
+
+mainframe*
+
+• Staging area: área de preparação (temporário)
+
+
