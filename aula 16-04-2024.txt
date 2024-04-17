@@ -89,3 +89,19 @@ output layer = saída
 –– Por fim:
 após operaçõs os recursos são achatados para classificação e regressão.
 
+• • • TNN • • • (transformadoras)
+*Lidar com dados em NLP. Resumo e tradução de texto (bert, gpt)
+
+- Processamento não sequencial = RNN- sequencial | TNN- não sequencial (significado semântico em qualquer sequência)
+- Processamento eficiente = maior paralelização, menor tempo de treino
+
+–– Camadas:
+- codificador,
+- decodificador.
+
+–– Aprendizado profundo mutimodal;
+
+–– Estratégias de combinação de info:
+ • fusão inicial
+ • fusão intermediária
+ • fusão tardia
