@@ -1,4 +1,6 @@
-DEEP LEARNING:
+→ palavras chave para pesquisa pós estão acompanhadas de asterísco (*).
+
+key => DEEP LEARNING:
 
 • REDES NEURAIS •
 arquiteturas: mlp, cnn, rnn, lstm, máquinas de boltzmann, deep belief network, deep auto-encoders, generative adversarial network
@@ -31,14 +33,59 @@ garação de imagens realistas em jogos de video game (NVIDIA GauGAN);
 
 : : : FIM : : : 
 
- DL é um tipo de machine learning
+→ DL é um tipo de machine learning
 • vant. = lida com problemas complexos e tem modelos mais precisos e reduz esforço;
 • desv. = treinar e otimizar pode exigir muito poder computacional e dados além de serem difíceis de interpretar;
 
- Estrutura de DL:
+→ Estrutura de DL:
 • múltiplas camadas de processamento com pesos entre entradas e saídas.
 1. aprende e extrai
 2 ou mais. classificam e previsao
 
+flutterflow*
 
+• • • DNN • • • (profundo)
+input layer  = entrada
+hidden layer = cruzamento de dados
+output layer = saída
+
+- função de ativação softmax;
+- função de perda de entropia cruzada;
+
+ –– algoritmo retropropagação em redes neurais = calcula correções nos pesos da rede para minimizar o erro.
+(vetor gradiente*)
+
+–– algoritmo de otimização Adam = controlar correções dos pesos, adaptar taxas de aprendizado e evitar mínimos locais.
+(adequação de dados ruidosos*)
+
+–– mitigação do overfitting* = problema comum em modelos de ML e redes neurais, ajusta demasiadamente aos dados de treinamento, mas não generaliza bem.
+- aumento do conjunto de dados,
+- redução da complexidade do modelo,
+- dropout,
+- normalização em lote;
+
+–– underfitting e viés alto = menos comum, não generaliza devido à baixa complexidade / limite de decisão simples.
++ underfitting (high bias)
++ just right
++ overfitting (high variance)
+
+• • • CNN • • • (convolucionais)
+→ arquitetura geral ←
+–– Operação de convolução =
+- capturando dependências espaciais (aplicação de filtros ou kernels relevantes),
+- aprendizado de filtros;
+
+–– Pré-processamento em comparação com outras redes de DL, melhor ajusnte aos dados da imagem devido à redução de parâmetros;
+
+–– Camadas = 
+* Camadas convolucionais
+• 1 captura recursos de baixo nível (bordas e cores)
+• subsequentes capturam recursos de nível superior (composições dos recursos anteriores)
+
+* Camada de pooling: [max pooling - agrupamento médio]
+• reduz tamanho dos recursos, otimizando
+• extrai características dominantes invariantes à posição;
+
+–– Por fim:
+após operaçõs os recursos são achatados para classificação e regressão.
 
