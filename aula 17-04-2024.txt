@@ -50,4 +50,7 @@ mainframe*
 
 • Staging area: área de preparação (temporário)
 
+2- IoT (internet of things):
+• 
+
 
