@@ -9,4 +9,10 @@
 - produtos home
 
 • Microprocessadores: interpretam sinais externos de sensores, executam programas, processam dados e controlam atuadores.
+02.
+- arduino e raspberry pi (CLP)
+- Arduino → atmega328P.
+* socket
+- TTL - transistor transistor logic
+
 
