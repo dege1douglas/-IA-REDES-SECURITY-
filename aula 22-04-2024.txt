@@ -1,1 +1,11 @@
 • • • SmartThings • • •
+01.
+- transformação de dispositivos eletrônicos e equip. de comunicação pessoal.
+- primeiro circuito integrado 1958 aka microcontrolador
+- sistemas embarcados = dedicados a tarefas específicas.
+- hardware, software e IHM
+- s. embarcado → microprocessador (periféricos, microprocessador, memória, coversores a/d, conversores d/a);
+  e ambiente externo(sensores, atuadores)
+- produtos home
+
+• Microprocessadores: interpretam sinais externos de sensores, executam programas, processam dados e controlam atuadores.
