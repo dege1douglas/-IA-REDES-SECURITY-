@@ -6,4 +6,9 @@
 • agricultura inteligente.
 • saúde inteligente.
 
+• • • CloudComputing • • •
+- compartilhamento via internet / remotos
+- armazenamento e processamento online
+- clusters // nuvem pública, privada e híbrida
+- Saas, PaaS, IaaS *
 
