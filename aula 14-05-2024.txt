@@ -1,0 +1,7 @@
+• TOPOLOGIAS FÍSICAS:
+- barramento, sequencial, estrela, anel, ponto a ponto, arvore, malha, híbrida
+
+• TOPOLOGIAS LÓGICAS:
+- ethernet, fiber distribuid data interface (FFDI)
+
+• PROTOCOLOS: 
