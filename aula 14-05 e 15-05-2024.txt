@@ -4,4 +4,5 @@
 • TOPOLOGIAS LÓGICAS:
 - ethernet, fiber distribuid data interface (FFDI)
 
-• PROTOCOLOS: 
+• IPV4;
+• Máscara de rede;
