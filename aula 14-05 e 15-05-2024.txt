@@ -1,8 +1,10 @@
-• TOPOLOGIAS FÍSICAS:
+• • • TOPOLOGIAS FÍSICAS:
 - barramento, sequencial, estrela, anel, ponto a ponto, arvore, malha, híbrida
 
-• TOPOLOGIAS LÓGICAS:
-- ethernet, fiber distribuid data interface (FFDI)
+• • • TOPOLOGIAS LÓGICAS:
+- ethernet, fiber distribuid data interface (FFDI).
 
-• IPV4;
-• Máscara de rede;
+• IPV4: Máscara de rede, octetos(32bits) - classes A - B - C;
+• Gateway (guarda fronteira rede-internet);
+• DNS (sistema de nomes de domínio);
+• Config. rede - dinâmica (DHCP) e estática (IP manual);
