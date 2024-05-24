@@ -7,4 +7,13 @@
 • IPV4: Máscara de rede, octetos(32bits) - classes A - B - C;
 • Gateway (guarda fronteira rede-internet);
 • DNS (sistema de nomes de domínio);
+• LAN: rede local;
+• DHCP (auto ip integration);
 • Config. rede - dinâmica (DHCP) e estática (IP manual);
+
+• REDE ETHERNET: MAC - meio físico - LLC{
+- endereçamento
+- TCP/IP
+- IPV4 = 4 octetos, 32bits
+- IPV6 = 8 octetos, 128bits
+}
