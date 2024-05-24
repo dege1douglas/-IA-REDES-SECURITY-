@@ -24,7 +24,7 @@
 - Utilização do firewall já existente na central de distribuição de internet (hack de rede) usado para conexão dos cabos
 
 .COBERTURA:
-- 10 pessoas, 
+- 10 pessoas por repetidor
 
 .EQUIPAMENTOS:
 - adaptador wifi, "hack" de rede, placa de rede wireless
