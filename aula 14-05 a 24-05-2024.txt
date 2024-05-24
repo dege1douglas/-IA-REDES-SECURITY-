@@ -17,3 +17,20 @@
 - IPV4 = 4 octetos, 32bits
 - IPV6 = 8 octetos, 128bits
 }
+
+
+- RESOLUÇÃO CENÁRIO 2: 
+.SEGURANÇA:
+- Utilização do firewall já existente na central de distribuição de internet (hack de rede) usado para conexão dos cabos
+
+.COBERTURA:
+- 10 pessoas, 
+
+.EQUIPAMENTOS:
+- adaptador wifi, "hack" de rede, placa de rede wireless
+
+.TRANSIÇÃO:
+- Inicia-se o processo utilizando adaptadores de wifi nos equipamentos que não possuem conexão wireless
+e após um processo de adequação, começar um processo de substituição das placas de rede para versões que aceitem wifi.
+
+
