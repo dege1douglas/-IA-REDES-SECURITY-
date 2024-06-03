@@ -1,0 +1,9 @@
+- Equipamentos de rede;(ativo/passivo)
+1. hub
+2. rede
+3. switch
+4. roteador
+5. placa de rede
+6. roteador wireless
+7. access point
+8. modem
