@@ -7,3 +7,8 @@
 6. roteador wireless
 7. access point
 8. modem
+
+- Configuração básicas:
+1. ping
+2. ipconfig
+3. traceroute
