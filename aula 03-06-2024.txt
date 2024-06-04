@@ -12,3 +12,5 @@
 1. ping
 2. ipconfig
 3. traceroute
+
+- ACL (LISTA DE CONTROLE DE ACESSO): dinâmico e estático
