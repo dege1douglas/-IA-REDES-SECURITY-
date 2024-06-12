@@ -15,7 +15,90 @@
 
 - ACL (LISTA DE CONTROLE DE ACESSO): dinâmico e estático
 
-____________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________________
 
-MATÉRIA FINAL -> SEGURANÇA*
+MATÉRIA FINAL → → →      * * * SEGURANÇA * * *     ↓  ↓  ↓  ↓  ↓
+
+
+____________________________
+→ LINHA DO TEMPO DA INFORMAÇÃO:
+- INVENÇÃO DA ESCRITA 3500 A.C.
+• desenvolvimento de sistemas de escrita padronizados e compreensíveis
+• preservação dos materiais
+
+- BIBLIOTECA DE ALEXANDRIA 300 A.C.
+• acesso limitado ao conhecimento
+• vulnerabilidade à destruição física
+
+- IMPRENSA DE GUTENBERG 1450
+• resistência inicial por parte das autoridades religiosas e seculares
+• disseminação de fake news
+
+- CORREIOS SÉC XVI
+• lenta velocidade de entrega e risco de inteceptação de mensagens
+• logística para manter rotas confiáveis
+
+- JORNAIS IMPRESSOS SÉC XVII
+• censura governamental 
+• controle da imprensa
+• manipulação da informação por interesses políticos e comerciais
+
+- TELÉGRAFO 1837
+• interceptação de mensagens
+• necessidade de códigos seguros
+
+- TELEFONE 1876
+• proteção da privacidade das conversas
+• regulação do uso das redes telefônicas
+
+- RÁDIO 1920-1930
+• controle do conteúdo transmitido
+• uso para propaganda e desinformação
+
+- INTERNET 1990
+• expansão rápida
+• falta de regulação inicial -> problemas de privacidade, segurança e propagação de informações falsas
+
+- REDES SOCIAIS 2000
+• proliferação de fake news e dseinformação
+• privacidade e uso indevido de dados pessoais
+
+___________________________________________
+→ LINHA DO TEMPO DA SEGURANÇA DAS INFORMAÇÕES:
+- CIFRAS E CÓDIGOS ANTIGOS 1900 A.C.
+• complexidade limitada das cifras
+
+- MÁQUINA ENIGMA 1920-1940
+• necessidade de técnicas avançadas de criptoanálise (Alan Turing / Bletchey Park)
+
+- CRIPTOGRAFICA COMPUTACIONAL (RSA) 1970
+• falta de poder computacional para criptografias robustas
+• dificulade de padronizar algoritmos
+
+- SSL/TLS 1990
+• vunerabilidades iniciais nos protocolos computacionais (man-in-the-middle)
+• necessidade de conscientizar empresas e consumidores 
+
+- LESGISLAÇÃO E REGULAMENTAÇÃO (GDPR / LGPD) 2000-2010
+• dificuldade para harmonizar leis de proteção entre diferentes países
+• resistência de empresas em adaptar
+
+- AUTENTICAÇÃO MULTIFATORIAL 2010
+• implementação de soluções práticas e seguras
+
+- BLOCKCHAIN 2010
+• problemas na escalabilidade
+• consumo de energia
+• complexidade técnica
+
+- SEGURANÇA NA NUVEM 2010
+• preocupação com privacidade dos dados
+
+- IA E MACHINE LEARNING 2020
+• desenvolvimento de algoritmos precisos e eficientes
+• ciração de modelos que não introduzam novos vetores de ataques
+
+- ZERO TRUST 2020
+• implementação completa em infraestruturas legadas
+
 
